@@ -60,11 +60,9 @@ main p {
     text-align: center;
   }
 
-
   .cabecalho nav {
     float: none;
   }
-
 
   .cabecalho nav li {
     display: block;
